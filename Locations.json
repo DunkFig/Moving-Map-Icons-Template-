@@ -1,0 +1,84 @@
+{
+  "locations": [
+    {
+      "name": "Statue of Liberty",
+      "LatLon": [
+        [40.6892, -74.0445],
+        [40.8895, -74.0450],
+        [40.7898, -74.0455],
+        [40.9901, -74.0448]
+      ],
+      "iconFilepath": "icons/statue_of_liberty.png"
+    },
+    {
+      "name": "Central Park",
+      "LatLon": [
+        [40.785091, -73.968285],
+        [40.784500, -73.900000],
+        [40.786000, -73.966000],
+        [40.744800, -73.965000]
+      ],
+      "iconFilepath": "icons/central_park.png"
+    },
+    {
+      "name": "Times Square",
+      "LatLon": [
+        [40.7580, -73.9855],
+        [40.7970, -73.9860],
+        [40.8590, -73.9840],
+        [40.7585, -73.9835]
+      ],
+      "iconFilepath": "icons/times_square.png"
+    },
+    {
+      "name": "Empire State Building",
+      "LatLon": [
+        [40.748817, -73.985428],
+        [40.758500, -73.986000],
+        [40.749100, -73.984500],
+        [40.758900, -73.984000]
+      ],
+      "iconFilepath": "icons/empire_state_building.png"
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "LatLon": [
+        [40.7061, -73.9969],
+        [40.7055, -73.9975],
+        [40.7065, -73.9960],
+        [40.7058, -73.9955]
+      ],
+      "iconFilepath": "icons/brooklyn_bridge.png"
+    },
+    {
+      "name": "One World Trade Center",
+      "LatLon": [
+        [40.712743, -74.013379],
+        [40.712300, -74.013900],
+        [40.733200, -74.312800],
+        [40.742600, -74.512300]
+      ],
+      "iconFilepath": "icons/one_world_trade_center.png"
+    },
+    {
+      "name": "Metropolitan Museum of Art",
+      "LatLon": [
+        [40.779437, -73.963244],
+        [40.779000, -73.962700],
+        [40.779800, -73.963800],
+        [40.779200, -73.962300]
+      ],
+      "iconFilepath": "icons/metropolitan_museum_of_art.png"
+    },
+    {
+      "name": "Yankee Stadium",
+      "LatLon": [
+        [40.829643, -73.926175],
+        [40.829200, -73.925700],
+        [40.830100, -73.926600],
+        [40.829500, -73.925100]
+      ],
+      "iconFilepath": "icons/yankee_stadium.png"
+    }
+  ]
+}

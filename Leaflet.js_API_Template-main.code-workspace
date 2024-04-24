@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Leaflet.js_API_Template-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Leaflet.js_API_Template-main"
+	}
+}
